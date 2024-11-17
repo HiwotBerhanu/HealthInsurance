@@ -66,23 +66,23 @@ export default function Home() {
               title: "Affordable Premiums",
               description:
                 "We offer competitive prices without compromising on quality.",
-              image: "/affordable.jpg", // Replace with your image paths
+              image: "/affordable.jpg", 
             },
             {
               title: "Wide Network",
               description: "Access to a broad network of healthcare providers.",
-              image: "/family.jpg", // Replace with your image paths
+              image: "/family.jpg", 
             },
             {
               title: "Comprehensive Coverage",
               description: "Tailored plans that meet diverse health needs.",
-              image: "/coverage.jpg", // Replace with your image paths
+              image: "/coverage.jpg", 
             },
             // {
             //   title: "Excellent Support",
             //   description:
             //     "Our team is here to assist you every step of the way.",
-            //   image: "/why-us.jpg", // Replace with your image paths
+            //   image: "/why-us.jpg", 
             // },
           ].map((item, index) => (
             <div
